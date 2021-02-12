@@ -20,7 +20,7 @@
 
 ## About the Project
 
-In this [`Webscraping Project`](https://github.com/sinjoysaha/Disney-Movies-Wiki-WebScraper) Jupyter notebook, we perform Exploratory Data Analysis of the huge Sales data by following the  tasks mentioned below. We try to answer the following set of real-world business questions to draw insights from this huge Sales dataset.
+In this [`Webscraping Project`](https://github.com/sinjoysaha/Disney-Movies-Wiki-WebScraper) Jupyter notebook, we scrape the Wikipedia pages for Disney movies to create a Disney Movies dataset.
 
 [![Project Image](docs/images/Disney-Movies-Wiki-WebScraper-projectimage.png)](https://github.com/sinjoysaha/Disney-Movies-Wiki-WebScraper)
 
