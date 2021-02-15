@@ -26,13 +26,29 @@ In this [`Webscraping Project`](https://github.com/sinjoysaha/Disney-Movies-Wiki
 
 ### Tasks
 
-* Task 1: 
+* Task 1: Scrape info box from Toy Story 3 Wiki page and save in python dictionary.
+
+* Task 2: Scrape info box for all Disney movies and save in list of python dictionaries.
+
+* Task 3: Clean the data!
+  - Strip out all references ([1], [2], etc)
+  - Split up long strings
+  - Convert 'Running time' field to integer
+  - Convert 'Budget' and 'Box office' fields to floats
+  - Convert dates to datetime objects
+  - Save data using Pickle
+
+* Task 4: Attach IMDb, Rotten Tomatoes, Metascores to dataset using OMDb API.
+
+* Task 5: Save final dataset as JSON and CSV files.
 
 ### Built With
 
 * Jupyter Notebook
 * Beautiful Soup
-* requests
+* Requests
+* Pickle
+* Pandas
 
 ## Fork the Repo and Contribute
 
