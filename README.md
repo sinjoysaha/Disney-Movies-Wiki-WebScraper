@@ -20,7 +20,7 @@
 
 ## About the Project
 
-In this [`Webscraping Project`](https://github.com/sinjoysaha/Disney-Movies-Wiki-WebScraper) Jupyter notebook, we scrape the Wikipedia pages for Disney movies to create a Disney Movies dataset. We scrape data like title, Directed by, Produced by, Written by, Narrated by,  Music by, Cinematography, Edited by, Production company, Distributed by, Release date, Running time, Country, Language from Wikipedia. We also work with OMDb API to get imdb, metascore, rotten_tomatoes data.
+In this [`Webscraping Project`](https://github.com/sinjoysaha/Disney-Movies-Wiki-WebScraper) Jupyter notebook, we scrape the Wikipedia pages for Disney movies to create a Disney Movies dataset. We scrape data like `Title`, `Directed by`, `Produced by`, `Written by`, `Narrated by`,  `Music by`, `Cinematography`, `Edited by`, `Production company`, `Distributed by`, `Release date`, `Running time`, `Country`, `Language` from Wikipedia. We also work with OMDb API to get `imdb`, `metascore`, `rotten_tomatoes` data. The data is stored as JSON and CSV and intermediately using Pickle library in Python.
 
 [![Project Image](docs/images/Disney-Movies-Wiki-WebScraper-projectimage.png)](https://github.com/sinjoysaha/Disney-Movies-Wiki-WebScraper)
 
